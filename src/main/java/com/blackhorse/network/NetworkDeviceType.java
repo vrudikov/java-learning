@@ -8,5 +8,6 @@ public enum NetworkDeviceType {
     PRINTER,
     SCANNER,
     MOBILE,
-    TABLET
+    TABLET,
+    FREEZER
 }
